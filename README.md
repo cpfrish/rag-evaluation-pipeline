@@ -12,7 +12,7 @@ Colin Frishberg.
 📄 **Read the report:** [`final_report.pdf`](final_report.pdf) ·
 📓 **The full pipeline + harness:** [`rag_evaluation.ipynb`](rag_evaluation.ipynb)
 
-![RAG pipeline architecture](RAG_pipeline.jpg)
+![LangGraph architecture as built](docs/langgraph_architecture.png)
 
 ## What was tested
 
@@ -35,7 +35,7 @@ Command A —
 | Engineering | 0.876 | > 0.87 |
 | Marketing | 0.881 | > 0.87 |
 
-at under **$100/month** projected serving cost versus $1,500+/month for
+at under **\$100/month** projected serving cost versus \$1,500+/month for
 reserved GPU capacity.
 
 ## Limitations worth carrying into production
