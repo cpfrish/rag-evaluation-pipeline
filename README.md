@@ -38,6 +38,8 @@ Command A —
 at under **\$100/month** projected serving cost versus \$1,500+/month for
 reserved GPU capacity.
 
+![Configuration comparison](docs/rag_results.png)
+
 ## Limitations worth carrying into production
 
 1. **128-token chunks truncate detail retrieval** — strong aggregate scores,
